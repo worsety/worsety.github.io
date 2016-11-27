@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<updates>
+	<update version="0.2.0">
+		<files>
+			<file path="Components/LiveSplit.LaMulanaRemake.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>First version</change>
+		</changelog>
+	</update>
+</updates>
