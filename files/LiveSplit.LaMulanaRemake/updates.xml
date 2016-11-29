@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <updates>
+	<update version="0.2.2">
+		<files>
+			<file path="Components/LiveSplit.LaMulanaRemake.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Some split conditions were renamed, for now this means you'll have to rebind them</change>
+			<change>All weapons</change>
+			<change>All subweapons</change>
+			<change>All usable items</change>
+			<change>All treasures (except secret treasure of life)</change>
+			<change>All seals</change>
+			<change>All sacred orbs</change>
+			<change>All ankh jewels</change>
+			<change>All maps</change>
+			<change>Some puzzles, not sure which ones I added</change>
+		</changelog>
+	</update>
 	<update version="0.2.1">
 		<files>
 			<file path="Components/LiveSplit.LaMulanaRemake.dll" status="changed" />
