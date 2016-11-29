@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <updates>
+	<update version="0.2.4">
+		<files>
+			<file path="Components/LiveSplit.LaMulanaRemake.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Changed spring in the sky floodgates condition to actually be the floodgates, not getting water flowing through the aqueduct where you fight Bahamut.  This changes timing, so reset any gold segments.</change>
+			<change>Added waking Mulbruk as a trigger</change>
+			<change>Added all of Xelpud's e-mails as triggers</change>
+		</changelog>
+	</update>
 	<update version="0.2.3">
 		<files>
 			<file path="Components/LiveSplit.LaMulanaRemake.dll" status="changed" />
