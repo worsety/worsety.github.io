@@ -5,7 +5,7 @@
 			<file path="Components/LiveSplit.LaMulanaRemake.dll" status="changed" />
 		</files>
 		<changelog>
-			<change>Automatically add or renamed split conditions to the current split name map</change>
+			<change>Automatically add new or renamed split conditions to the current split name map</change>
 		</changelog>
 	</update>
 	<update version="0.2.2">
