@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <updates>
+	<update version="0.2.3">
+		<files>
+			<file path="Components/LiveSplit.LaMulanaRemake.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Automatically add or renamed split conditions to the current split name map</change>
+		</changelog>
+	</update>
 	<update version="0.2.2">
 		<files>
 			<file path="Components/LiveSplit.LaMulanaRemake.dll" status="changed" />
