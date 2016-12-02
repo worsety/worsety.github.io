@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <updates>
+	<update version="0.3.2">
+		<files>
+			<file path="Components/LiveSplit.LaMulanaRemake.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Most any% split conditions</change>
+			<change>Some misc split conditions e.g. hell temple (just unlock/finish)</change>
+			<change>Only two tabs now, run split mappings and mappings not in use in this run.</change>
+		</changelog>
+	</update>
 	<update version="0.3.1">
 		<files>
 			<file path="Components/LiveSplit.LaMulanaRemake.dll" status="changed" />
