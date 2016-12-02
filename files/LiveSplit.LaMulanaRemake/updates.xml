@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <updates>
+	<update version="0.3.0">
+		<files>
+			<file path="Components/LiveSplit.LaMulanaRemake.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Split condition are now selected from a menu brought up by clicking a button</change>
+			<change>Display names are now separate from internal names so this is probably the last release which will break split associations</change>
+			<change>Added some more puzzles</change>
+			<change>Added coin chests</change>
+			<change>Probably added a few split conditions I can't remember</change>
+		</changelog>
+	</update>
 	<update version="0.2.4">
 		<files>
 			<file path="Components/LiveSplit.LaMulanaRemake.dll" status="changed" />
