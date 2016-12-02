@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <updates>
+	<update version="0.3.3">
+		<files>
+			<file path="Components/LiveSplit.LaMulanaRemake.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Fairy points</change>
+			<change>Tiamat's children</change>
+			<change>Endless corridor puzzles</change>
+			<change>Minor additions and shrine of the mother moved to just above true shrine</change>
+		</changelog>
+	</update>
 	<update version="0.3.2">
 		<files>
 			<file path="Components/LiveSplit.LaMulanaRemake.dll" status="changed" />
