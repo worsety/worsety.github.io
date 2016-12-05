@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <updates>
+	<update version="0.4.0">
+		<files>
+			<file path="Components/LiveSplit.LaMulanaRemake.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Added message box if we can't access the game because of silly GoG admin rights with instructions to fix this.</change>
+		</changelog>
+	</update>
 	<update version="0.3.5">
 		<files>
 			<file path="Components/LiveSplit.LaMulanaRemake.dll" status="changed" />
