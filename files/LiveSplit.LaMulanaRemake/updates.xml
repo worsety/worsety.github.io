@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <updates>
+	<update version="0.3.5">
+		<files>
+			<file path="Components/LiveSplit.LaMulanaRemake.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Added missing coin chest: Endless Corridor</change>
+			<change>Added lighting the lamp of time</change>
+		</changelog>
+	</update>
 	<update version="0.3.4">
 		<files>
 			<file path="Components/LiveSplit.LaMulanaRemake.dll" status="changed" />
