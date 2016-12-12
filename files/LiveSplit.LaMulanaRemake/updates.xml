@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <updates>
+	<update version="0.4.3">
+		<files>
+			<file path="Components/LiveSplit.LaMulanaRemake.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Attempt to match game processes by file product name rather than executable name where possible.</change>
+		</changelog>
+	</update>
 	<update version="0.4.2">
 		<files>
 			<file path="Components/LiveSplit.LaMulanaRemake.dll" status="changed" />
