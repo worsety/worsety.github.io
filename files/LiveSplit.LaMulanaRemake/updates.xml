@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <updates>
+	<update version="0.4.5">
+		<files>
+			<file path="Components/LiveSplit.LaMulanaRemake.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Fixed a bug in the split skipping logic which was skipping all splits on computers set to negative UTC offsets and skipping no splits on computers set to positive UTC offsets.  Or maybe vice versa? Whatever, it's fixed.</change>
+		</changelog>
+	</update>
 	<update version="0.4.4">
 		<files>
 			<file path="Components/LiveSplit.LaMulanaRemake.dll" status="changed" />
