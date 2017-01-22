@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <updates>
+	<update version="0.4.6">
+		<files>
+			<file path="Components/LiveSplit.LaMulanaRemake.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Fixed unresponsiveness when La-Mulana's not running, turns out checking version information for all running processes uses a lot of kernel time or something?</change>
+		</changelog>
+	</update>
 	<update version="0.4.5">
 		<files>
 			<file path="Components/LiveSplit.LaMulanaRemake.dll" status="changed" />
