@@ -34,6 +34,15 @@
       <SegmentHistory />
     </Segment>
     <Segment>
+      <Name>-Weights-&gt;5</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
       <Name>-Hand scanner</Name>
       <Icon />
       <SplitTimes>
@@ -80,6 +89,15 @@
     </Segment>
     <Segment>
       <Name>-Mausoleum grail</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Weights-&gt;13</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -142,15 +160,6 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>-Axe</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best" />
-      </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
-    </Segment>
-    <Segment>
       <Name>-Grapple claw</Name>
       <Icon />
       <SplitTimes>
@@ -161,6 +170,15 @@
     </Segment>
     <Segment>
       <Name>-Moon grail</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Axe</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -215,6 +233,15 @@
     </Segment>
     <Segment>
       <Name>-Sakit ankh</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Weights+10</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -359,6 +386,15 @@
     </Segment>
     <Segment>
       <Name>-Serpent staff</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Weights-&gt;23</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -566,6 +602,24 @@
     </Segment>
     <Segment>
       <Name>-Eden</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Caltrops-&gt;40</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Weights-&gt;50</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -1042,6 +1096,15 @@
       <SegmentHistory />
     </Segment>
     <Segment>
+      <Name>-Crystal skull</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
       <Name>-La-Mulanese (Birth)</Name>
       <Icon />
       <SplitTimes>
@@ -1061,15 +1124,6 @@
     </Segment>
     <Segment>
       <Name>-Dimensional key</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best" />
-      </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
-    </Segment>
-    <Segment>
-      <Name>-Crystal skull</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
