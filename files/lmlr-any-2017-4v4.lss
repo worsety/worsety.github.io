@@ -106,7 +106,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>{Boots of clipping}Hermes' Boots</Name>
+      <Name>-Hermes' Boots</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -115,7 +115,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>-Mausoleum jewel chest</Name>
+      <Name>{Boots of clipping}Mausoleum jewel chest</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -386,6 +386,15 @@
     </Segment>
     <Segment>
       <Name>-Serpent staff</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-yagomap.exe</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -997,33 +1006,6 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>-MSX2 + yagomap.exe</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best" />
-      </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
-    </Segment>
-    <Segment>
-      <Name>-deathv.exe</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best" />
-      </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
-    </Segment>
-    <Segment>
-      <Name>-Lone snake</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best" />
-      </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
-    </Segment>
-    <Segment>
       <Name>-Amphisbaena ankh</Name>
       <Icon />
       <SplitTimes>
@@ -1070,6 +1052,33 @@
     </Segment>
     <Segment>
       <Name>-Place dragon bone</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-MSX2</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-deathv.exe</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Lone snake</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
