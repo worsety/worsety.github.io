@@ -394,6 +394,15 @@
       <SegmentHistory />
     </Segment>
     <Segment>
+      <Name>-Pistol</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
       <Name>-yagomap.exe</Name>
       <Icon />
       <SplitTimes>
@@ -413,15 +422,6 @@
     </Segment>
     <Segment>
       <Name>-Feather</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best" />
-      </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
-    </Segment>
-    <Segment>
-      <Name>-Gun</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
