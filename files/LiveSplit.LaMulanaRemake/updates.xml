@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <updates>
+	<update version="0.4.8">
+		<files>
+			<file path="Components/LiveSplit.LaMulanaRemake.dll" status="changed" />
+		</files>
+		<changelog>
+			<change>Changed splitting logic with the aim of not creating fake golds.</change>
+            <change>Undone splits will not be immediately resplit, you have to skip them.</change>
+            <change>Starting a run manually while a save is loaded for testing will skip all splits that have already been done, not all but one.</change>
+            <change>Probably introduced bugs?</change>
+		</changelog>
+	</update>
 	<update version="0.4.7">
 		<files>
 			<file path="Components/LiveSplit.LaMulanaRemake.dll" status="changed" />
