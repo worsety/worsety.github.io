@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <updates>
+	<update version="0.4.9">
+		<files>
+			<file path="Components/LiveSplit.LaMulanaRemake.dll" status="changed" />
+		</files>
+		<changelog>
+            <change>Fixed crash when playing anything other than La-Mulana.  This was arguably a feature.</change>
+		</changelog>
+	</update>
 	<update version="0.4.8">
 		<files>
 			<file path="Components/LiveSplit.LaMulanaRemake.dll" status="changed" />
