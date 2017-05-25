@@ -529,6 +529,15 @@
       <SegmentHistory />
     </Segment>
     <Segment>
+      <Name>-Fairies</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
       <Name>-Life seal</Name>
       <Icon />
       <SplitTimes>
@@ -548,15 +557,6 @@
     </Segment>
     <Segment>
       <Name>-Gauntlet</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best" />
-      </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
-    </Segment>
-    <Segment>
-      <Name>-Fairies</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -1250,15 +1250,6 @@
     </Segment>
     <Segment>
       <Name>-Mushussu</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best" />
-      </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
-    </Segment>
-    <Segment>
-      <Name>-Dimensional jewel</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
