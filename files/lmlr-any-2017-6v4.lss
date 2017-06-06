@@ -772,6 +772,24 @@
       <SegmentHistory />
     </Segment>
     <Segment>
+      <Name>-Flares</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Viy ankh</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
       <Name>-La-Mulanese (Birth)</Name>
       <Icon />
       <SplitTimes>
@@ -836,24 +854,6 @@
     </Segment>
     <Segment>
       <Name>-Woman statue</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best" />
-      </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
-    </Segment>
-    <Segment>
-      <Name>-Flares</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best" />
-      </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
-    </Segment>
-    <Segment>
-      <Name>-Viy ankh</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
