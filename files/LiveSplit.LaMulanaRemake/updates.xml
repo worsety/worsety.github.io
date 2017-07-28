@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <updates>
+	<update version="0.4.11">
+		<files>
+			<file path="Components/LiveSplit.LaMulanaRemake.dll" status="changed" />
+		</files>
+		<changelog>
+            <change>Dev room splits</change>
+            <change>Hell temple splits</change>
+		</changelog>
+	</update>
 	<update version="0.4.10">
 		<files>
 			<file path="Components/LiveSplit.LaMulanaRemake.dll" status="changed" />
