@@ -1,1 +1,9 @@
-files/** binary
+*.7z binary
+
+*.bps binary
+*.ips binary
+
+*.sav binary
+
+*.exe binary
+*.dll binary
