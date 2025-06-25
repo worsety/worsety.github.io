@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+<meta charset="utf-8"/>
 <title>WTY's La-Mulana patches and tools</title>
 <style>
 body {
@@ -34,6 +35,11 @@ body {
 
 .tab-content {
     display: none;
+}
+
+body:not(:has(#tabs input[type="radio"]:checked)) .tab-content:target,
+body:not(:has(#tabs input[type="radio"]:checked)) .tab-content:has(:target) {
+    display: revert;
 }
 
 body:has(#tab-lmremake:checked) #lmremake {
@@ -117,6 +123,11 @@ table.patches td {
     <!-- more tables for more tab groups -->
 </div>
 <section id="lmremake" class="tab-content">
+    <ul>
+        <li><a href="#lmremake-patch">Patches</a></li>
+        <li><a href="#lmremake-autosplitter">Autosplitter</a></li>
+    </ul>
+    <hr/>
     <h1 id="lmremake-patch">La-Mulana Remake Patches</h1>
     <p>
         All of these patches should be applied with <a href="https://github.com/Alcaro/Flips/releases">Floating IPS</a> to <code>LaMulanaWin.exe</code>.
@@ -257,6 +268,7 @@ table.patches td {
         </tbody>
     </table>
     </p>
+    <a href="#">▲Back to top<a>
     <h1 id="lmremake-autosplitter">Autosplitter for La-Mulana Remake</h1>
     <p>
         The La-Mulana remake autosplitter can be downloaded automatically by LiveSplit, or <a href="files/LiveSplit.LaMulanaRemake/Components/LiveSplit.LaMulanaRemake.dll">here</a>.
@@ -264,6 +276,7 @@ table.patches td {
     <p>
         <a href="https://github.com/worsety/LiveSplit.LaMulanaRemake">Source code</a>
     </p>
+    <a href="#">▲Back to top<a>
 </section>
 <section id="xrd" class="tab-content">
     <h1 id="xrd-patch">Guilty Gear Xrd Rev 2 Patches</h1>
